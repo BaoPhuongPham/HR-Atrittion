@@ -4,41 +4,41 @@ Dự án HR Attrition Analytics tập trung phân tích dữ liệu nhân sự n
 
 ⚙️ Quy trình
 
-Tiền xử lý dữ liệu (Python Notebook)
+- Tiền xử lý dữ liệu (Python Notebook)
 
-Kiểm tra và xử lý giá trị thiếu.
+- Kiểm tra và xử lý giá trị thiếu.
 
-Chỉnh sửa cột Company Tenure  phù hợp với logic thực tế.
+- Chỉnh sửa cột Company Tenure  phù hợp với logic thực tế.
 
-Xuất dữ liệu đã làm sạch sang định dạng CSV để dùng cho Power BI.
+- Xuất dữ liệu đã làm sạch sang định dạng CSV để dùng cho Power BI.
 
 Phân tích & Trực quan hóa (Power BI)
 
-Trang Overview: KPI chính (Attrition Rate, số lượng nhân viên), phân bổ nhân viên theo độ tuổi, giới tính, trình độ, bộ phận.
+- Trang Overview: KPI chính (Attrition Rate, số lượng nhân viên), phân bổ nhân viên theo độ tuổi, giới tính, trình độ, bộ phận.
 
-Trang Attrition Details: so sánh nhóm nhân viên ở lại và rời đi theo thu nhập, thâm niên, số lần thăng chức, khoảng cách đi làm.
+- Trang Attrition Details: so sánh nhóm nhân viên ở lại và rời đi theo thu nhập, thâm niên, số lần thăng chức, khoảng cách đi làm.
 
-Trang Risk Factors: phân tích tỷ lệ nghỉ việc theo Work-Life Balance, Overtime, Job Satisfaction, Job Level.
+- Trang Risk Factors: phân tích tỷ lệ nghỉ việc theo Work-Life Balance, Overtime, Job Satisfaction, Job Level.
 
-Trang Recommendations (tùy chọn): đề xuất hành động cải thiện dựa trên insight.
+- Trang Recommendations (tùy chọn): đề xuất hành động cải thiện dựa trên insight.
 
 💡 Insight rút ra
 
-Nhân viên Entry-level có tỷ lệ nghỉ việc cao hơn hẳn so với Mid-level và Senior.
+- Nhân viên Entry-level có tỷ lệ nghỉ việc cao hơn hẳn so với Mid-level và Senior.
 
-Work-Life Balance kém và Overtime thường xuyên là hai yếu tố nổi bật làm tăng rủi ro nghỉ việc.
+- Work-Life Balance kém và Overtime thường xuyên là hai yếu tố nổi bật làm tăng rủi ro nghỉ việc.
 
-Nhân viên rời đi thường có thu nhập thấp hơn, ít cơ hội thăng tiến, và thời gian gắn bó với công ty ngắn.
+- Nhân viên rời đi thường có thu nhập thấp hơn, ít cơ hội thăng tiến, và thời gian gắn bó với công ty ngắn.
 
-Nhóm nhân viên có hiệu suất tốt nhưng không được ghi nhận/đánh giá cao cũng thể hiện tỷ lệ nghỉ việc cao.
+- Nhóm nhân viên có hiệu suất tốt nhưng không được ghi nhận/đánh giá cao cũng thể hiện tỷ lệ nghỉ việc cao.
 
 📊 Từ những insight này, tổ chức nên tập trung vào:
 
-Cải thiện trải nghiệm của nhân viên Entry-level (mentorship, đào tạo, cơ hội thăng tiến).
+- Cải thiện trải nghiệm của nhân viên Entry-level (mentorship, đào tạo, cơ hội thăng tiến).
 
-Giảm thiểu tình trạng làm thêm giờ, cân bằng công việc – cuộc sống.
+- Giảm thiểu tình trạng làm thêm giờ, cân bằng công việc – cuộc sống.
 
-Tăng cường ghi nhận và khen thưởng nhân viên để giữ chân nhân tài.
+- Tăng cường ghi nhận và khen thưởng nhân viên để giữ chân nhân tài.
 
 **Dashboard**
 
