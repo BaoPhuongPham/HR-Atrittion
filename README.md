@@ -1,8 +1,8 @@
-📌 Giới thiệu
+**📌 Giới thiệu**
 
 Dự án HR Attrition Analytics tập trung phân tích dữ liệu nhân sự nhằm tìm hiểu đặc điểm hồ sơ nhân viên, đo lường tỷ lệ nghỉ việc (Attrition Rate), xác định các yếu tố ảnh hưởng đến việc nhân viên rời bỏ tổ chức và đưa ra đề xuất cải thiện. Dữ liệu được tiền xử lý bằng Python để đảm bảo sạch và nhất quán, sau đó được trực quan hóa bằng Power BI để tạo ra dashboard hỗ trợ ra quyết định cho phòng Nhân sự và Ban lãnh đạo.
 
-⚙️ Quy trình
+**⚙️ Quy trình**
 
 - Tiền xử lý dữ liệu (Python Notebook)
 
@@ -12,7 +12,7 @@ Dự án HR Attrition Analytics tập trung phân tích dữ liệu nhân sự n
 
 - Xuất dữ liệu đã làm sạch sang định dạng CSV để dùng cho Power BI.
 
-Phân tích & Trực quan hóa (Power BI)
+**Phân tích & Trực quan hóa (Power BI)**
 
 - Trang Overview: KPI chính (Attrition Rate, số lượng nhân viên), phân bổ nhân viên theo độ tuổi, giới tính, trình độ, bộ phận.
 
@@ -22,7 +22,7 @@ Phân tích & Trực quan hóa (Power BI)
 
 - Trang Recommendations (tùy chọn): đề xuất hành động cải thiện dựa trên insight.
 
-💡 Insight rút ra
+**💡 Insight rút ra**
 
 - Nhân viên Entry-level có tỷ lệ nghỉ việc cao hơn hẳn so với Mid-level và Senior.
 
@@ -32,7 +32,7 @@ Phân tích & Trực quan hóa (Power BI)
 
 - Nhóm nhân viên có hiệu suất tốt nhưng không được ghi nhận/đánh giá cao cũng thể hiện tỷ lệ nghỉ việc cao.
 
-📊 Từ những insight này, tổ chức nên tập trung vào:
+**📊 Từ những insight này, tổ chức nên tập trung vào:**
 
 - Cải thiện trải nghiệm của nhân viên Entry-level (mentorship, đào tạo, cơ hội thăng tiến).
 
